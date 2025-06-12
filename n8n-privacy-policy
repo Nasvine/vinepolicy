@@ -1,0 +1,30 @@
+Privacy Policy
+
+Last Updated: [Date]
+
+This privacy policy explains how your data is handled when using the application connected to Google services via OAuth.
+1. Application Identity
+
+This application is developed and maintained by [Your Name or Company Name], for internal use within [Your Company or Organization Name].
+2. Data Collection and Use
+
+The application requests access to your Gmail account via Google OAuth in order to perform specific automation tasks such as reading, sending, or managing your emails (depending on the scopes authorized).
+
+We do not collect, store, or share any personal data obtained through your Gmail account. All data is processed securely and exclusively to provide the functionality of the application within your organization.
+3. Data Sharing
+
+We do not sell, trade, or share your personal information with third parties. Data processed by this application is kept confidential and used only for the intended purposes of the automation workflows.
+4. Data Security
+
+We follow industry best practices to ensure your data is handled securely. Authentication is managed by Google via OAuth 2.0, and no Gmail credentials are ever stored.
+5. Data Retention
+
+This application does not store any user data or emails on its own servers. Any temporary data is discarded immediately after the automation tasks are completed.
+6. User Control
+
+You can revoke access to your Gmail account at any time via your Google account’s security settings: https://myaccount.google.com/permissions
+7. Contact
+
+If you have any questions or concerns about this privacy policy, please contact:
+Email: vinenassara@gmail.com
+GitHub: https://github.com/Nasvine
